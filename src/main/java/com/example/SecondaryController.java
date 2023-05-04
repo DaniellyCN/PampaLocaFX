@@ -1,4 +1,4 @@
-package com.controller;
+package com.example;
 
 import java.io.IOException;
 import javafx.fxml.FXML;
